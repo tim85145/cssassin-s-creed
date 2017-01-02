@@ -1,0 +1,12 @@
+.container{
+	padding: 80px 120px;
+}
+.affix{
+	top: 20px;
+	position: fixed;
+}
+@media(max-width: 600px){
+	.carousel-caption{
+		display: none;
+	}
+}
